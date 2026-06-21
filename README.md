@@ -32,11 +32,7 @@ bf-bloodeffect/
 ## Installation
 1. Drop the `bf-bloodeffect` folder into your server `resources/` directory.
 2. Add `ensure bf-bloodeffect` to your `server.cfg`.
-3. Adjust `shared/config.lua` to your server's needs.
+3. Adjust config You will find it inside file `client.lua` to your server's needs.
 
-## Export
-```lua
-exports['bf-bloodeffect']:showBloodEffect(damage, weaponHash)
-```
-**
+***
 created by ❤️ with dakhchich 
