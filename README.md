@@ -34,4 +34,4 @@ bf-bloodeffect/
 3. Adjust config You will find it inside file `client.lua` to your server's needs.
 
 ***
-created by ❤️ with dakhchich 
+Created with ❤️ by Dakhchich 
